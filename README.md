@@ -1,5 +1,5 @@
 # Unibit-Games-assignment
-Input:
+Given Input:
 
 arr: [1, 3, 2, 2, -4, -6, -2, 8]
 target: 4
